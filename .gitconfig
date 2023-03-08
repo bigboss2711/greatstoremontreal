@@ -4,5 +4,5 @@
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
 [user]
-	name = w3schools-test
-	email = test@w3schools.com
+	name = bigboss2711
+	email = pepinfrancois1975@gmail.com
